@@ -6,7 +6,7 @@ An extensible text analysis framework for comparative analysis of legal document
 
 This project implements advanced NLP techniques to analyze linguistic patterns across insurance litigation cases, enabling identification of key legal terminology and comparative analysis between different insurers and case outcomes.
 
-## Core Files
+## Files
 
 ### `textacular.py` **[Main Framework]**
 The primary NLP analysis engine containing the `Textacular` class with methods for:
